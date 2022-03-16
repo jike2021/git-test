@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("TNND 跟我玩阴的是吧，那...那就来吧");
         System.out.println("TNND 跟我玩阴的是吧，那...那就来吧");
         System.out.println("呜哈哈");
+        System.out.println("TNND 跟我玩阴的是吧，那...那就来吧");
     }
 }
